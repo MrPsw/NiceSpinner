@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yanzhenjie.nohttp:nohttp-1.1.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nohttp-1.1.10.aar/2f674f299b557d080d9ac6263529930c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nohttp-1.1.10.aar/2f674f299b557d080d9ac6263529930c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yanzhenjie.nohttp/nohttp/1.1.10/4aa850fb76a7b35ef5046464209ce89944bc792/nohttp-1.1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

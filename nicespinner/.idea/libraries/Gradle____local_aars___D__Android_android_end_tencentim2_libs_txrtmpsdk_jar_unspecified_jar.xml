@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:D.\Android\android-end\tencentim2\libs\txrtmpsdk.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../tencentim2/libs/txrtmpsdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

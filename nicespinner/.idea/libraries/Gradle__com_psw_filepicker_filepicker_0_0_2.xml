@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.psw.filepicker:filepicker-0.0.2">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/filepicker-0.0.2.aar/c686570aece2c91dd311b6ca4fe56558/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/filepicker-0.0.2.aar/c686570aece2c91dd311b6ca4fe56558/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/filepicker-0.0.2.aar/c686570aece2c91dd311b6ca4fe56558/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.psw.filepicker/filepicker/0.0.2/b154f36169a6afc5f1e782f2892ada5bfdf2b44d/filepicker-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
